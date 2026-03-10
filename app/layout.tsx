@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MMF Atheefa",
-  description: "Full Stack Developer & Project Manager",
+  title: "MMF-Atheefa",
+  description: "T2T Project",
 };
 
 export default function RootLayout({
